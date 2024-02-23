@@ -21,13 +21,17 @@ int main()
     std::getline(std::cin, nameOfBusiness);
 
     std::cout << "Enter a location > ";
-    std::getline(std::cin, location);
+    std::cin >> location;
+    
+    std::cin.ignore();
 
     std::cout << "Enter a type of animal > ";
     std::getline(std::cin, typeOfAnimal);
 
     std::cout << "Enter a present continous verb > ";
-    std::getline(std::cin, presentContinuousVerb);
+    std::cin >> presentContinuousVerb;
+
+    std::cout << std::endl;
 
     /* Output the story. */ 
     std::cout << "Mr. M Palin" << "\n";
