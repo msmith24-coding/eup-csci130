@@ -21,6 +21,7 @@ There is only one mad lib available for this game. While it contains six blanks,
 answers. Some answers are used twice in the story.
 
 ---
+```
 Mr. M. Palin
 Owner, *name of a business*
 *location*, England
@@ -40,7 +41,7 @@ I appreciate your quick resolution of this matter.
 Sincerely,
 
 J. Cleese.
-
+```
 ---
 
 For this madlib, you should ask for the following items in the following order.
