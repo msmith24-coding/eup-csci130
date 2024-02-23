@@ -1,0 +1,9 @@
+# macOS-Specific Ignores:
+.DS_Store
+
+# Object:
+*.o
+
+# Executables:
+*.out
+*.exe
